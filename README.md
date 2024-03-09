@@ -1,2 +1,2 @@
-# PokedexDS
-Pokedex feita no curso de Desenvolvimento de sistemas
+# pokedex
+Pokedex criada com .NET MVC C#
